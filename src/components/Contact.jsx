@@ -1,5 +1,5 @@
 import React from 'react'
-import '../css/contact.css'
+import '../css/Contact.css'
 const Contact = () => {
     const contactList = [
         { type: "Email", value: "yourname@example.com" },
